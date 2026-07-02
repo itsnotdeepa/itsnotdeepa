@@ -1,5 +1,5 @@
 ## Hi there 👋
-i am deeps
+i am deepa
 <!--
 **itsnotdeepa/itsnotdeepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
